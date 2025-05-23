@@ -1,0 +1,13 @@
+Overall Accuracy (OA): 95.6420%
+Kappa Index: 0.9515
+User Accuracy (UA) per class:
+Class 0: 94.5161%
+Class 1: 90.9461%
+Class 2: 94.8038%
+Class 3: 93.7922%
+Class 4: 98.2167%
+Class 5: 95.4348%
+Class 6: 94.8549%
+Class 7: 98.5459%
+Class 8: 95.8442%
+Class 9: 100.0000%
